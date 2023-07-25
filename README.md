@@ -1,8 +1,6 @@
 ## Description
 This repository includes all the PLC designs and code files generated for arduino uno.
 
-## Author
-Rohit M Patil
 
 ## Content
 PLC (programmable logic controller), which is a device that can control industrial processes and machines using ladder logic.I learned about:
